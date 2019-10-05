@@ -19,7 +19,7 @@ $person = new Person();
 // Set the person's name
 $person->setName('Sarah');
 
-// Get the person's name
+// Get the person's name. Out: Her name is Sarah
 echo 'Her name is ' . $person->getName();
 
 ?>
